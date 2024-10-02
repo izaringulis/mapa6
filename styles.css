@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box
+}
+
+body{
+	margin:0;
+	padding:50;
+	background-color:beige
+}
+
+.map{
+	height:100 vh;
+	width:100 vw;
+}
+
+	
